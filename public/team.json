@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Manchester United FC",
+    "code": "MUFCccccccc",
+    "shortName": "ManU",
+    "squadMarketValue": "394,550,000 €",
+    "crestUrl": "http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg"
+  },
+  {
+    "name": "Tottenham Hotspur FC",
+    "code": "THFC",
+    "shortName": "Spurs",
+    "squadMarketValue": "278,000,000 €",
+    "crestUrl": "http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg"
+  },
+  {
+    "name": "AFC Bournemouth",
+    "code": "AFCB",
+    "shortName": "Bournemouth",
+    "squadMarketValue": "88,800,000 €",
+    "crestUrl": "https://upload.wikimedia.org/wikipedia/de/4/41/Afc_bournemouth.svg"
+  },
+  {
+    "name": "Aston Villa FC",
+    "code": "AVFC",
+    "shortName": "Aston Villa",
+    "squadMarketValue": "114,750,000 €",
+    "crestUrl": "http://upload.wikimedia.org/wikipedia/de/9/9f/Aston_Villa_logo.svg"
+  },
+  {
+    "name": "Everton FC",
+    "code": "EFC",
+    "shortName": "Everton",
+    "squadMarketValue": "209,500,000 €",
+    "crestUrl": "http://upload.wikimedia.org/wikipedia/de/f/f9/Everton_FC.svg"
+  },
+  {
+    "name": "Watford FC",
+    "code": "Watfordfc",
+    "shortName": "Watford",
+    "squadMarketValue": "93,950,000 €",
+    "crestUrl": "https://upload.wikimedia.org/wikipedia/en/e/e2/Watford.svg"
+  },
+  {
+    "name": "Leicester City FC",
+    "code": "LCFC",
+    "shortName": "Foxes",
+    "squadMarketValue": "95,500,000 €",
+    "crestUrl": "http://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png"
+  },
+  {
+    "name": "Sunderland AFC",
+    "code": "SUN",
+    "shortName": "Sunderland",
+    "squadMarketValue": "98,500,000 €",
+    "crestUrl": "http://upload.wikimedia.org/wikipedia/de/6/60/AFC_Sunderland.svg"
+  },
+  {
+    "name": "Norwich City FC",
+    "code": "NCFC",
+    "shortName": "Norwich",
+    "squadMarketValue": "91,000,000 €",
+    "crestUrl": "http://upload.wikimedia.org/wikipedia/de/8/8c/Norwich_City.svg"
+  },
+  {
+    "name": "Crystal Palace FC",
+    "code": "CRY",
+    "shortName": "Crystal",
+    "squadMarketValue": "121,250,000 €",
+    "crestUrl": "http://upload.wikimedia.org/wikipedia/de/b/bf/Crystal_Palace_F.C._logo_(2013).png"
+  },
+  {
+    "name": "Chelsea FC",
+    "code": "CFC",
+    "shortName": "Chelsea",
+    "squadMarketValue": "523,650,000 €",
+    "crestUrl": "http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg"
+  },
+  {
+    "name": "Swansea City FC",
+    "code": "SWA",
+    "shortName": "Swans",
+    "squadMarketValue": "116,100,000 €",
+    "crestUrl": "http://upload.wikimedia.org/wikipedia/de/a/ab/Swansea_City_Logo.svg"
+  },
+  {
+    "name": "Newcastle United FC",
+    "code": "NUFC",
+    "shortName": "Newcastle",
+    "squadMarketValue": "188,250,000 €",
+    "crestUrl": "http://upload.wikimedia.org/wikipedia/de/5/56/Newcastle_United_Logo.svg"
+  },
+  {
+    "name": "Southampton FC",
+    "code": "SFC",
+    "shortName": "Southampton",
+    "squadMarketValue": "194,750,000 €",
+    "crestUrl": "http://upload.wikimedia.org/wikipedia/de/c/c9/FC_Southampton.svg"
+  },
+  {
+    "name": "Arsenal FC",
+    "code": "AFC",
+    "shortName": "Arsenal",
+    "squadMarketValue": "393,000,000 €",
+    "crestUrl": "http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg"
+  },
+  {
+    "name": "West Ham United FC",
+    "code": "WHU",
+    "shortName": "West Ham",
+    "squadMarketValue": "176,000,000 €",
+    "crestUrl": "http://upload.wikimedia.org/wikipedia/de/e/e0/West_Ham_United_FC.svg"
+  },
+  {
+    "name": "Stoke City FC",
+    "code": "SCFC",
+    "shortName": "Stoke",
+    "squadMarketValue": "122,250,000 €",
+    "crestUrl": "http://upload.wikimedia.org/wikipedia/de/a/a3/Stoke_City.svg"
+  },
+  {
+    "name": "Liverpool FC",
+    "code": "LFC",
+    "shortName": "Liverpool",
+    "squadMarketValue": "367,950,000 €",
+    "crestUrl": "http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg"
+  },
+  {
+    "name": "West Bromwich Albion FC",
+    "code": "WBA",
+    "shortName": "West Bromwich",
+    "squadMarketValue": "107,000,000 €",
+    "crestUrl": "http://upload.wikimedia.org/wikipedia/de/8/8b/West_Bromwich_Albion.svg"
+  },
+  {
+    "name": "Manchester City FC",
+    "code": "MCFC",
+    "shortName": "ManCity",
+    "squadMarketValue": "510,000,000 €",
+    "crestUrl": "http://upload.wikimedia.org/wikipedia/de/f/fd/ManCity.svg"
+  }
+]
